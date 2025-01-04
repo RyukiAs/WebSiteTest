@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "e36JtPIG5z+0TRnyFNhlcG/+AS7voisVnasWH9+w3nw=",
+  "Hash": "uezDPbNj0OATI976A6YvF5jebCGAEANnrm9Rg5MIug0=",
   "Source": "WebSiteTest",
   "BasePath": "_content/WebSiteTest",
   "Mode": "Default",
@@ -78,6 +78,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\shion\\source\\repos\\WebSiteTest\\WebSiteTest\\wwwroot\\demo-gaming.html",
+      "SourceId": "WebSiteTest",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shion\\source\\repos\\WebSiteTest\\WebSiteTest\\wwwroot\\",
+      "BasePath": "_content/WebSiteTest",
+      "RelativePath": "demo-gaming#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4zvt86ikut",
+      "Integrity": "IEfAqNLV3cEAFX1+mF98HueItJjHuXnt3gIcjFe2sY0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\demo-gaming.html"
     },
     {
       "Identity": "C:\\Users\\shion\\source\\repos\\WebSiteTest\\WebSiteTest\\wwwroot\\favicon.ico",
@@ -1399,6 +1420,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+        }
+      ]
+    },
+    {
+      "Route": "demo-gaming.4zvt86ikut.html",
+      "AssetFile": "C:\\Users\\shion\\source\\repos\\WebSiteTest\\WebSiteTest\\wwwroot\\demo-gaming.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27782"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IEfAqNLV3cEAFX1+mF98HueItJjHuXnt3gIcjFe2sY0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 04:21:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4zvt86ikut"
+        },
+        {
+          "Name": "label",
+          "Value": "demo-gaming.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IEfAqNLV3cEAFX1+mF98HueItJjHuXnt3gIcjFe2sY0="
+        }
+      ]
+    },
+    {
+      "Route": "demo-gaming.html",
+      "AssetFile": "C:\\Users\\shion\\source\\repos\\WebSiteTest\\WebSiteTest\\wwwroot\\demo-gaming.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27782"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IEfAqNLV3cEAFX1+mF98HueItJjHuXnt3gIcjFe2sY0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 04:21:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IEfAqNLV3cEAFX1+mF98HueItJjHuXnt3gIcjFe2sY0="
         }
       ]
     },

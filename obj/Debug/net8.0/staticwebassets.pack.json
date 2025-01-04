@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\shion\\source\\repos\\WebSiteTest\\WebSiteTest\\wwwroot\\demo-gaming.html",
+      "PackagePath": "staticwebassets\\demo-gaming.html"
+    },
+    {
       "Id": "C:\\Users\\shion\\source\\repos\\WebSiteTest\\WebSiteTest\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
